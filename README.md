@@ -12,9 +12,13 @@
 ### 👨‍💻 About Me
 
 •⁠  ⁠🛠️ DevOps Engineer focused on *automation, CI/CD, container orchestration, and **cloud infrastructure*
+
 •⁠  ⁠☁️ Experienced with *Azure, AWS, Kubernetes, Docker, Terraform, Jenkins, Ansible, Azure DevOps*, and more
+
 •⁠  ⁠🔍 Passionate about creating robust pipelines, managing cloud-native applications, and monitoring production systems
+
 •⁠  ⁠💬 I enjoy sharing knowledge, solving infrastructure problems, and building tools that scale
+
 •⁠  ⁠📫 Reach me: (437) 473-4649 | onaifohchinwe094@gmail.com | 📍 Ajax, Ontario 🇨🇦
 
 ---
@@ -53,8 +57,11 @@
 ### 🧩 Projects & Use Cases
 
 •⁠  ⁠✅ *CI/CD Pipelines* with Jenkins, GitHub Actions, SonarQube, and Nexus
+
 •⁠  ⁠☁️ *Infrastructure-as-Code* using Terraform and Azure DevOps Pipelines
+
 •⁠  ⁠🐳 *Containerization* and deployment of applications using Docker and Kubernetes
+
 •⁠  ⁠📊 *Monitoring* with Prometheus, Grafana, and centralized logging (EFK stack)
 
  👉 Visit my repositories for hands-on projects.
