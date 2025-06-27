@@ -19,7 +19,7 @@
 
 •⁠  ⁠💬 I enjoy sharing knowledge, solving infrastructure problems, and building tools that scale
 
-•⁠  ⁠📫 Reach me: (437) 473-4649 | onaifohchinwe094@gmail.com | 📍 Ajax, Ontario 🇨🇦
+•⁠  ⁠📫 Reach me: (437) 473-4649 | onaifohchinwe094@gmail.com | 📍 Ajax, Ontario 🇨🇦 (Willing to relocate)
 
 ---
 
